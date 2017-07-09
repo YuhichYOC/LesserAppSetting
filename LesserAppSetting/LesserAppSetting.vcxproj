@@ -23,7 +23,7 @@
     <ProjectGuid>{8205B47C-E3CB-404D-85CE-0473826C7ED0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LesserAppSetting</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
